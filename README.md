@@ -71,5 +71,13 @@ To Consume a topic
 kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning
 
 
+Resources
+--------------
+
+https://www.youtube.com/watch?v=gdo_AMfncpU
+https://www.youtube.com/watch?v=NjHYWEV_E_o
+https://stackoverflow.com/questions/58492689/how-to-send-batched-data-with-spring-kafka-producer
+
+
 
 
